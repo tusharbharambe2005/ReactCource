@@ -1,0 +1,7 @@
+.top{
+    background: lightseagreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
