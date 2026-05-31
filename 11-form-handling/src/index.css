@@ -1,0 +1,25 @@
+/* ===== RESET ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ===== GLOBAL ===== */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  background: #111;
+  color: #fff;
+}
+
+input, button{
+  padding: 10px 20px;
+  margin: 10px;
+  
+}
