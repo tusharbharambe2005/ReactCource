@@ -1,0 +1,43 @@
+/* ===== RESET ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ===== GLOBAL ===== */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  background: #111;
+  color: #fff;
+}
+
+.light{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(132, 231, 226);
+
+  padding: 10px 14px;
+  align-items: center;
+
+}
+
+.dark{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(20, 138, 132);
+  padding: 10px 14px;
+  align-items: center;
+
+}
+
+.navContent{
+  display: flex;
+  gap: 25px;
+}
